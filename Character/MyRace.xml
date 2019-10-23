@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<race>
+		<name>Dhampir</name>
+		<size>M</size>
+		<speed>45</speed>
+		<ability>Cha 2</ability>
+		<trait>
+			<name>Physical Enhancement</name>
+			<text>A mortal's transformation into a vampire offers a host of physical enhancements, like strength, speed, and agility, and you have inherited some of this enhancement from your undead parent. Your choice of score from either Strength, Dexterity, or Constitution increase by 1.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Vampiric Gaze</name>
+			<text>You can cast the suggestion spell once using this trait. Charisma is your spellcasting ability for this spell. This only works in direct eye contact. You require no components to cast this spell using this trait, but your target must be able to see you. You regain the ability to cast this spell when you finish a short or long rest.</text>
+		</trait>
+		<trait>
+			<name>Siring Bite</name>
+			<text>You have the ability to make a bite attack against either a willing creature, a creature that is charmed or grappled by you, or a creature that is incapacitated or restrained. If the victim is unwilling, they must have less than or equal to 10 hit points remaining or be unconscious. You can use your Strength or Dexterity for your bite's attack roll. On a hit, your bite deals necrotic damage equal to 4d10 plus the ability modifier used to make the attack roll. You may also choose to gain temporary hit points equal to the amount of necrotic damage dealt with this attack. You may use this ability a number of times equal to your proficiency bonus. If this attack does not prove fatal, the victim gains the Vampiric Transformation trait. Any expended uses of this feature are restored after a long rest.</text>
+		</trait>
+		<trait>
+			<name>Sixth Sense</name>
+			<text>You can read minds and detect any beings within a 60 foot radius.</text>
+		</trait>
+		<trait>
+			<name>Vampiric Transformation</name>
+			<text>This applies once you have been affected by Siring Bite. You immediately gain access to the Siring Bite trait. Once per day, you must use this ability on a humanoid creature to feed. Failure to do so results in your max HP being halved for the following day and your other vampiric abilities failing to function. Each time you feed successfully, roll a d6. The outcomes of this are as follows:\n1 - Administer a permanent madness roll. The results are incurable and must be kept secret.\n2 - Gain an unspeakable hunger and need to feed twice the following day.\n3 - Regress one vampiric stage.\n4 - No extra benefit or penalty.\n5 - Progress through one vampiric stage.\n6 - Increase your max HP by 2.</text>
+		</trait>
+		<trait>
+			<name>Vampiric Stages</name>
+			<text>These stages can be progressed and regressed through by feeding. Someone who has been newly sired will begin at Stage 1.\n Stage 0 - This being is not a vampire.\nStage 1 - Siring Bite, Vampiric Transformation\nStage 2 -  All Above, Pale Skin and Yellow Eyes\nStage 3 - All Above, Speed Increase to 45.\nStage 4 -  All Above, Sunlight Sensitivity\nStage 5 - All Above, Darkvision\nStage 6 - All Above, Anti-Occult Forces Recognise and Wish to Kill You\nStage 7 - All Above, Physical Enhancement\nStage 8 - All Above, Sixth Sense\nStage 9 - All Above, Gain a Flaw Every 6 Feeds\nStage 10 - All Above, Vampiric Gaze\nStage 11 - All Above, Double Damage from Silver Weapons\nStage 12 - All Above, Neutral Evil Allignment</text>
+		</trait>
+		<trait>
+			<name>Language</name>
+			<text>You can speak, read, and write Common, and one other language.</text>
+		</trait>
+	</race>
+</compendium>
